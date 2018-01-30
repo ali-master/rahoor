@@ -1,0 +1,17 @@
+{
+	"name": "class-3",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js --exec node"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^1.14.11"
+	},
+	"dependencies": {
+		"express": "^4.16.2"
+	}
+}

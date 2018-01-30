@@ -1,0 +1,2612 @@
+[
+  {
+    "code": 101,
+    "name": "گرگان",
+    "rail": "شمال",
+    "distance": 495
+  },
+  {
+    "code": 102,
+    "name": "سبزدشت",
+    "rail": "شمال",
+    "distance": 477
+  },
+  {
+    "code": 103,
+    "name": "بندر ترکمن",
+    "rail": "شمال",
+    "distance": 460
+  },
+  {
+    "code": 104,
+    "name": "بندر گز",
+    "rail": "شمال",
+    "distance": 441
+  },
+  {
+    "code": 105,
+    "name": "گلوگاه",
+    "rail": "شمال",
+    "distance": 428
+  },
+  {
+    "code": 106,
+    "name": "تیرتاش",
+    "rail": "شمال",
+    "distance": 420
+  },
+  {
+    "code": 107,
+    "name": "بهشهر",
+    "rail": "شمال",
+    "distance": 403
+  },
+  {
+    "code": 108,
+    "name": "رستم‌کلا",
+    "rail": "شمال",
+    "distance": 391
+  },
+  {
+    "code": 109,
+    "name": "نکا",
+    "rail": "شمال",
+    "distance": 379
+  },
+  {
+    "code": 110,
+    "name": "شهید نوبخت",
+    "rail": "شمال",
+    "distance": 370
+  },
+  {
+    "code": 111,
+    "name": "ساری",
+    "rail": "شمال",
+    "distance": 354
+  },
+  {
+    "code": 112,
+    "name": "گونی‌بافی",
+    "rail": "شمال",
+    "distance": 337
+  },
+  {
+    "code": 113,
+    "name": "قائم‌شهر",
+    "rail": "شمال",
+    "distance": 334
+  },
+  {
+    "code": 114,
+    "name": "شیرگاه",
+    "rail": "شمال",
+    "distance": 313
+  },
+  {
+    "code": 115,
+    "name": "زیرآب",
+    "rail": "شمال",
+    "distance": 296
+  },
+  {
+    "code": 116,
+    "name": "پل سفید",
+    "rail": "شمال",
+    "distance": 286
+  },
+  {
+    "code": 117,
+    "name": "سوادکوه",
+    "rail": "شمال",
+    "distance": 269
+  },
+  {
+    "code": 118,
+    "name": "سرخ‌آباد",
+    "rail": "شمال",
+    "distance": 259
+  },
+  {
+    "code": 119,
+    "name": "ورسک",
+    "rail": "شمال",
+    "distance": 245
+  },
+  {
+    "code": 120,
+    "name": "دوگل",
+    "rail": "شمال",
+    "distance": 236
+  },
+  {
+    "code": 121,
+    "name": "گدوک",
+    "rail": "شمال",
+    "distance": 218
+  },
+  {
+    "code": 122,
+    "name": "فیروزکوه",
+    "rail": "شمال",
+    "distance": 202
+  },
+  {
+    "code": 123,
+    "name": "مهاباد",
+    "rail": "شمال",
+    "distance": 188
+  },
+  {
+    "code": 124,
+    "name": "زرین‌دشت",
+    "rail": "شمال",
+    "distance": 173
+  },
+  {
+    "code": 125,
+    "name": "سیمین‌دشت",
+    "rail": "شمال",
+    "distance": 161
+  },
+  {
+    "code": 126,
+    "name": "کبوتردره",
+    "rail": "شمال",
+    "distance": 148
+  },
+  {
+    "code": 127,
+    "name": "بن‌کوه",
+    "rail": "شمال",
+    "distance": 128
+  },
+  {
+    "code": 128,
+    "name": "گرمسار",
+    "rail": "تهران",
+    "distance": 114
+  },
+  {
+    "code": 130,
+    "name": "ابردژ",
+    "rail": "تهران",
+    "distance": 64
+  },
+  {
+    "code": 131,
+    "name": "پیشوا",
+    "rail": "تهران",
+    "distance": 52
+  },
+  {
+    "code": 132,
+    "name": "ورامین",
+    "rail": "تهران",
+    "distance": 43
+  },
+  {
+    "code": 133,
+    "name": "بهرام",
+    "rail": "تهران",
+    "distance": 26
+  },
+  {
+    "code": 134,
+    "name": "ری",
+    "rail": "تهران",
+    "distance": 9
+  },
+  {
+    "code": 135,
+    "name": "تهران",
+    "rail": "تهران",
+    "distance": 0
+  },
+  {
+    "code": 136,
+    "name": "تپه سفید",
+    "rail": "تهران",
+    "distance": 10
+  },
+  {
+    "code": 137,
+    "name": "اسلامشهر",
+    "rail": "تهران",
+    "distance": 20
+  },
+  {
+    "code": 138,
+    "name": "رباط کریم",
+    "rail": "تهران",
+    "distance": 36
+  },
+  {
+    "code": 139,
+    "name": "رود شور",
+    "rail": "قم",
+    "distance": 59
+  },
+  {
+    "code": 140,
+    "name": "پرندک",
+    "rail": "قم",
+    "distance": 82
+  },
+  {
+    "code": 141,
+    "name": "شهید خیری‌پور",
+    "rail": "قم",
+    "distance": 98
+  },
+  {
+    "code": 142,
+    "name": "کوه پنگ",
+    "rail": "قم",
+    "distance": 116
+  },
+  {
+    "code": 143,
+    "name": "انجیلاوند",
+    "rail": "قم",
+    "distance": 132
+  },
+  {
+    "code": 144,
+    "name": "نودژ",
+    "rail": "قم",
+    "distance": 147
+  },
+  {
+    "code": 145,
+    "name": "پل",
+    "rail": "قم",
+    "distance": 164
+  },
+  {
+    "code": 147,
+    "name": "نیک پسندی",
+    "rail": "تهران",
+    "distance": 12
+  },
+  {
+    "code": 148,
+    "name": "لشکری",
+    "rail": "تهران",
+    "distance": 17
+  },
+  {
+    "code": 149,
+    "name": "ملکی",
+    "rail": "تهران",
+    "distance": 23
+  },
+  {
+    "code": 150,
+    "name": "کرج",
+    "rail": "تهران",
+    "distance": 40
+  },
+  {
+    "code": 151,
+    "name": "کردان",
+    "rail": "تهران",
+    "distance": 58
+  },
+  {
+    "code": 152,
+    "name": "هشتگرد",
+    "rail": "تهران",
+    "distance": 75
+  },
+  {
+    "code": 153,
+    "name": "آبیک",
+    "rail": "تهران",
+    "distance": 92
+  },
+  {
+    "code": 154,
+    "name": "زیاران",
+    "rail": "تهران",
+    "distance": 108
+  },
+  {
+    "code": 155,
+    "name": "کهندژ",
+    "rail": "تهران",
+    "distance": 126
+  },
+  {
+    "code": 156,
+    "name": "قم",
+    "rail": "قم",
+    "distance": 180
+  },
+  {
+    "code": 157,
+    "name": "ساقه",
+    "rail": "قم",
+    "distance": 200
+  },
+  {
+    "code": 158,
+    "name": "باغیک",
+    "rail": "اراک",
+    "distance": 220
+  },
+  {
+    "code": 159,
+    "name": "سواریان",
+    "rail": "اراک",
+    "distance": 234
+  },
+  {
+    "code": 160,
+    "name": "راهگرد",
+    "rail": "اراک",
+    "distance": 247
+  },
+  {
+    "code": 161,
+    "name": "نانگرد",
+    "rail": "اراک",
+    "distance": 265
+  },
+  {
+    "code": 162,
+    "name": "مشک‌آباد",
+    "rail": "اراک",
+    "distance": 285
+  },
+  {
+    "code": 163,
+    "name": "ملک‌آباد",
+    "rail": "اراک",
+    "distance": 304
+  },
+  {
+    "code": 164,
+    "name": "اراک",
+    "rail": "اراک",
+    "distance": 320
+  },
+  {
+    "code": 165,
+    "name": "سمنگان",
+    "rail": "اراک",
+    "distance": 337
+  },
+  {
+    "code": 166,
+    "name": "شازند",
+    "rail": "اراک",
+    "distance": 353
+  },
+  {
+    "code": 167,
+    "name": "نورآباد",
+    "rail": "اراک",
+    "distance": 372
+  },
+  {
+    "code": 168,
+    "name": "سمیه",
+    "rail": "اراک",
+    "distance": 388
+  },
+  {
+    "code": 169,
+    "name": "مومن‌آباد",
+    "rail": "لرستان",
+    "distance": 401
+  },
+  {
+    "code": 170,
+    "name": "ازنا",
+    "rail": "لرستان",
+    "distance": 416
+  },
+  {
+    "code": 171,
+    "name": "دربند",
+    "rail": "لرستان",
+    "distance": 439
+  },
+  {
+    "code": 172,
+    "name": "رودک",
+    "rail": "لرستان",
+    "distance": 454
+  },
+  {
+    "code": 173,
+    "name": "درود",
+    "rail": "لرستان",
+    "distance": 466
+  },
+  {
+    "code": 174,
+    "name": "قارون",
+    "rail": "لرستان",
+    "distance": 478
+  },
+  {
+    "code": 175,
+    "name": "بیشه",
+    "rail": "لرستان",
+    "distance": 494
+  },
+  {
+    "code": 176,
+    "name": "سپیددشت",
+    "rail": "لرستان",
+    "distance": 507
+  },
+  {
+    "code": 177,
+    "name": "چمسنگر",
+    "rail": "لرستان",
+    "distance": 525
+  },
+  {
+    "code": 178,
+    "name": "کشور",
+    "rail": "لرستان",
+    "distance": 541
+  },
+  {
+    "code": 179,
+    "name": "تنگ‌هفت",
+    "rail": "لرستان",
+    "distance": 554
+  },
+  {
+    "code": 180,
+    "name": "تنگ‌پنج",
+    "rail": "زاگرس",
+    "distance": 570
+  },
+  {
+    "code": 181,
+    "name": "تله‌زنگ",
+    "rail": "زاگرس",
+    "distance": 587
+  },
+  {
+    "code": 182,
+    "name": "شهبازان",
+    "rail": "زاگرس",
+    "distance": 601
+  },
+  {
+    "code": 183,
+    "name": "مازو",
+    "rail": "زاگرس",
+    "distance": 617
+  },
+  {
+    "code": 184,
+    "name": "بالارود",
+    "rail": "زاگرس",
+    "distance": 636
+  },
+  {
+    "code": 185,
+    "name": "گل‌محک",
+    "rail": "زاگرس",
+    "distance": 649
+  },
+  {
+    "code": 186,
+    "name": "دوکوهه",
+    "rail": "زاگرس",
+    "distance": 662
+  },
+  {
+    "code": 187,
+    "name": "اندیمشک",
+    "rail": "زاگرس",
+    "distance": 674
+  },
+  {
+    "code": 188,
+    "name": "سبزآب",
+    "rail": "زاگرس",
+    "distance": 690
+  },
+  {
+    "code": 189,
+    "name": "شوش",
+    "rail": "زاگرس",
+    "distance": 705
+  },
+  {
+    "code": 190,
+    "name": "هفت‌تپه",
+    "rail": "زاگرس",
+    "distance": 720
+  },
+  {
+    "code": 191,
+    "name": "میان‌آب",
+    "rail": "جنوب",
+    "distance": 736
+  },
+  {
+    "code": 192,
+    "name": "آهودشت",
+    "rail": "جنوب",
+    "distance": 751
+  },
+  {
+    "code": 193,
+    "name": "بامدژ",
+    "rail": "جنوب",
+    "distance": 774
+  },
+  {
+    "code": 194,
+    "name": "خاور",
+    "rail": "جنوب",
+    "distance": 783
+  },
+  {
+    "code": 195,
+    "name": "نظامیه",
+    "rail": "جنوب",
+    "distance": 797
+  },
+  {
+    "code": 196,
+    "name": "اهواز",
+    "rail": "جنوب",
+    "distance": 815
+  },
+  {
+    "code": 197,
+    "name": "کارون",
+    "rail": "جنوب",
+    "distance": 820
+  },
+  {
+    "code": 198,
+    "name": "میاندشت",
+    "rail": "جنوب",
+    "distance": 831
+  },
+  {
+    "code": 199,
+    "name": "خسروی",
+    "rail": "جنوب",
+    "distance": 852
+  },
+  {
+    "code": 200,
+    "name": "منصوری",
+    "rail": "جنوب",
+    "distance": 868
+  },
+  {
+    "code": 201,
+    "name": "گرگر",
+    "rail": "جنوب",
+    "distance": 888
+  },
+  {
+    "code": 202,
+    "name": "مرغزار",
+    "rail": "جنوب",
+    "distance": 899
+  },
+  {
+    "code": 204,
+    "name": "سربندر",
+    "rail": "جنوب",
+    "distance": 913
+  },
+  {
+    "code": 205,
+    "name": "بندر امام",
+    "rail": "جنوب",
+    "distance": 926
+  },
+  {
+    "code": 207,
+    "name": "خرمشهر",
+    "rail": "جنوب",
+    "distance": 936
+  },
+  {
+    "code": 208,
+    "name": "قدس",
+    "rail": "جنوب",
+    "distance": 824
+  },
+  {
+    "code": 210,
+    "name": "شهید حمید موسوی",
+    "rail": "جنوب",
+    "distance": 856
+  },
+  {
+    "code": 211,
+    "name": "آهو",
+    "rail": "جنوب",
+    "distance": 876
+  },
+  {
+    "code": 212,
+    "name": "حسینیه",
+    "rail": "جنوب",
+    "distance": 896
+  },
+  {
+    "code": 213,
+    "name": "گرمدشت",
+    "rail": "جنوب",
+    "distance": 916
+  },
+  {
+    "code": 214,
+    "name": "قزوین",
+    "rail": "شمال غرب",
+    "distance": 144
+  },
+  {
+    "code": 215,
+    "name": "سیاه‌چشمه",
+    "rail": "شمال غرب",
+    "distance": 163
+  },
+  {
+    "code": 216,
+    "name": "تاکستان",
+    "rail": "شمال غرب",
+    "distance": 178
+  },
+  {
+    "code": 217,
+    "name": "سیاه‌باغ",
+    "rail": "شمال غرب",
+    "distance": 194
+  },
+  {
+    "code": 218,
+    "name": "قروه",
+    "rail": "شمال غرب",
+    "distance": 210
+  },
+  {
+    "code": 219,
+    "name": "خرم‌دره",
+    "rail": "شمال غرب",
+    "distance": 227
+  },
+  {
+    "code": 220,
+    "name": "زرین‌دژ",
+    "rail": "شمال غرب",
+    "distance": 244
+  },
+  {
+    "code": 221,
+    "name": "پیرزاغه",
+    "rail": "شمال غرب",
+    "distance": 261
+  },
+  {
+    "code": 222,
+    "name": "سلطانیه",
+    "rail": "شمال غرب",
+    "distance": 280
+  },
+  {
+    "code": 223,
+    "name": "بناب",
+    "rail": "شمال غرب",
+    "distance": 298
+  },
+  {
+    "code": 224,
+    "name": "زنجان",
+    "rail": "شمال غرب",
+    "distance": 314
+  },
+  {
+    "code": 225,
+    "name": "خرم‌پی",
+    "rail": "شمال غرب",
+    "distance": 333
+  },
+  {
+    "code": 226,
+    "name": "نیک‌پی",
+    "rail": "شمال غرب",
+    "distance": 348
+  },
+  {
+    "code": 227,
+    "name": "آذرپی",
+    "rail": "شمال غرب",
+    "distance": 366
+  },
+  {
+    "code": 228,
+    "name": "سرچم",
+    "rail": "شمال غرب",
+    "distance": 383
+  },
+  {
+    "code": 229,
+    "name": "رجین",
+    "rail": "شمال غرب",
+    "distance": 401
+  },
+  {
+    "code": 230,
+    "name": "پل‌دختر",
+    "rail": "شمال غرب",
+    "distance": 421
+  },
+  {
+    "code": 231,
+    "name": "میانه",
+    "rail": "شمال غرب",
+    "distance": 439
+  },
+  {
+    "code": 232,
+    "name": "قرانقو",
+    "rail": "شمال غرب",
+    "distance": 454
+  },
+  {
+    "code": 233,
+    "name": "شیخ صفی",
+    "rail": "شمال غرب",
+    "distance": 470
+  },
+  {
+    "code": 234,
+    "name": "بابک",
+    "rail": "شمال غرب",
+    "distance": 487
+  },
+  {
+    "code": 235,
+    "name": "خراسانک",
+    "rail": "شمال غرب",
+    "distance": 502
+  },
+  {
+    "code": 236,
+    "name": "صائب",
+    "rail": "شمال غرب",
+    "distance": 513
+  },
+  {
+    "code": 237,
+    "name": "هشترود",
+    "rail": "شمال غرب",
+    "distance": 526
+  },
+  {
+    "code": 238,
+    "name": "آتش‌بخ",
+    "rail": "شمال غرب",
+    "distance": 537
+  },
+  {
+    "code": 239,
+    "name": "سراجو",
+    "rail": "شمال غرب",
+    "distance": 547
+  },
+  {
+    "code": 240,
+    "name": "خراجو",
+    "rail": "شمال غرب",
+    "distance": 560
+  },
+  {
+    "code": 241,
+    "name": "سهند",
+    "rail": "شمال غرب",
+    "distance": 569
+  },
+  {
+    "code": 242,
+    "name": "گل‌تپه",
+    "rail": "شمال غرب",
+    "distance": 582
+  },
+  {
+    "code": 243,
+    "name": "خواجه نصیر",
+    "rail": "شمال غرب",
+    "distance": 592
+  },
+  {
+    "code": 244,
+    "name": "مراغه",
+    "rail": "شمال غرب",
+    "distance": 607
+  },
+  {
+    "code": 245,
+    "name": "آذربناب",
+    "rail": "آذربایجان",
+    "distance": 618
+  },
+  {
+    "code": 246,
+    "name": "دیزه‌رود",
+    "rail": "آذربایجان",
+    "distance": 633
+  },
+  {
+    "code": 247,
+    "name": "عجب‌شیر",
+    "rail": "آذربایجان",
+    "distance": 645
+  },
+  {
+    "code": 248,
+    "name": "پرویزبهمن",
+    "rail": "آذربایجان",
+    "distance": 657
+  },
+  {
+    "code": 249,
+    "name": "شیرآئین",
+    "rail": "آذربایجان",
+    "distance": 670
+  },
+  {
+    "code": 250,
+    "name": "آذرشهر",
+    "rail": "آذربایجان",
+    "distance": 686
+  },
+  {
+    "code": 251,
+    "name": "زارعی",
+    "rail": "آذربایجان",
+    "distance": 702
+  },
+  {
+    "code": 252,
+    "name": "عباسی",
+    "rail": "آذربایجان",
+    "distance": 720
+  },
+  {
+    "code": 253,
+    "name": "تبریز",
+    "rail": "آذربایجان",
+    "distance": 735
+  },
+  {
+    "code": 254,
+    "name": "سهلان",
+    "rail": "آذربایجان",
+    "distance": 755
+  },
+  {
+    "code": 255,
+    "name": "صوفیان",
+    "rail": "آذربایجان",
+    "distance": 767
+  },
+  {
+    "code": 256,
+    "name": "سیوان",
+    "rail": "آذربایجان",
+    "distance": 781
+  },
+  {
+    "code": 257,
+    "name": "پیام",
+    "rail": "آذربایجان",
+    "distance": 790
+  },
+  {
+    "code": 258,
+    "name": "کندلج",
+    "rail": "آذربایجان",
+    "distance": 797
+  },
+  {
+    "code": 259,
+    "name": "مرند",
+    "rail": "آذربایجان",
+    "distance": 811
+  },
+  {
+    "code": 260,
+    "name": "هرزند",
+    "rail": "آذربایجان",
+    "distance": 835
+  },
+  {
+    "code": 261,
+    "name": "زال",
+    "rail": "آذربایجان",
+    "distance": 849
+  },
+  {
+    "code": 262,
+    "name": "گرگر",
+    "rail": "آذربایجان",
+    "distance": 866
+  },
+  {
+    "code": 263,
+    "name": "جلفا",
+    "rail": "آذربایجان",
+    "distance": 882
+  },
+  {
+    "code": 264,
+    "name": "دیزه خلیل",
+    "rail": "آذربایجان",
+    "distance": 795
+  },
+  {
+    "code": 265,
+    "name": "شرف‌خانه",
+    "rail": "آذربایجان",
+    "distance": 819
+  },
+  {
+    "code": 266,
+    "name": "تسوج‌قلعه",
+    "rail": "آذربایجان",
+    "distance": 837
+  },
+  {
+    "code": 267,
+    "name": "چشمه‌کنان",
+    "rail": "آذربایجان",
+    "distance": 857
+  },
+  {
+    "code": 268,
+    "name": "شکریازی",
+    "rail": "آذربایجان",
+    "distance": 875
+  },
+  {
+    "code": 269,
+    "name": "سلماس",
+    "rail": "آذربایجان",
+    "distance": 886
+  },
+  {
+    "code": 270,
+    "name": "بابکان",
+    "rail": "آذربایجان",
+    "distance": 904
+  },
+  {
+    "code": 271,
+    "name": "میلادی",
+    "rail": "آذربایجان",
+    "distance": 921
+  },
+  {
+    "code": 272,
+    "name": "اقبالی",
+    "rail": "آذربایجان",
+    "distance": 938
+  },
+  {
+    "code": 273,
+    "name": "رازی",
+    "rail": "آذربایجان",
+    "distance": 957
+  },
+  {
+    "code": 274,
+    "name": "یاتری",
+    "rail": "شمال شرق",
+    "distance": 131
+  },
+  {
+    "code": 275,
+    "name": "ده‌نمک",
+    "rail": "شمال شرق",
+    "distance": 153
+  },
+  {
+    "code": 276,
+    "name": "سرخ‌دشت",
+    "rail": "شمال شرق",
+    "distance": 167
+  },
+  {
+    "code": 277,
+    "name": "لاهورد",
+    "rail": "شمال شرق",
+    "distance": 188
+  },
+  {
+    "code": 278,
+    "name": "بیابانک",
+    "rail": "شمال شرق",
+    "distance": 209
+  },
+  {
+    "code": 279,
+    "name": "سمنان",
+    "rail": "شمال شرق",
+    "distance": 227
+  },
+  {
+    "code": 280,
+    "name": "میاندره",
+    "rail": "شمال شرق",
+    "distance": 246
+  },
+  {
+    "code": 281,
+    "name": "آبگرم",
+    "rail": "شمال شرق",
+    "distance": 262
+  },
+  {
+    "code": 282,
+    "name": "گرداب",
+    "rail": "شمال شرق",
+    "distance": 276
+  },
+  {
+    "code": 283,
+    "name": "هفتخوان",
+    "rail": "شمال شرق",
+    "distance": 298
+  },
+  {
+    "code": 284,
+    "name": "لارستان",
+    "rail": "شمال شرق",
+    "distance": 310
+  },
+  {
+    "code": 285,
+    "name": "بنوار",
+    "rail": "شمال شرق",
+    "distance": 320
+  },
+  {
+    "code": 286,
+    "name": "امروان",
+    "rail": "شمال شرق",
+    "distance": 333
+  },
+  {
+    "code": 287,
+    "name": "سرخده",
+    "rail": "شمال شرق",
+    "distance": 349
+  },
+  {
+    "code": 288,
+    "name": "دامغان",
+    "rail": "شمال شرق",
+    "distance": 363
+  },
+  {
+    "code": 289,
+    "name": "زرین",
+    "rail": "شمال شرق",
+    "distance": 386
+  },
+  {
+    "code": 290,
+    "name": "کلاتخوان",
+    "rail": "شمال شرق",
+    "distance": 410
+  },
+  {
+    "code": 291,
+    "name": "شاهرود",
+    "rail": "شمال شرق",
+    "distance": 429
+  },
+  {
+    "code": 292,
+    "name": "بسطام",
+    "rail": "شمال شرق",
+    "distance": 449
+  },
+  {
+    "code": 293,
+    "name": "شیرین‌چشمه",
+    "rail": "شمال شرق",
+    "distance": 469
+  },
+  {
+    "code": 294,
+    "name": "گیلان",
+    "rail": "شمال شرق",
+    "distance": 488
+  },
+  {
+    "code": 295,
+    "name": "بکران",
+    "rail": "شمال شرق",
+    "distance": 508
+  },
+  {
+    "code": 296,
+    "name": "جهان‌آباد",
+    "rail": "شمال شرق",
+    "distance": 531
+  },
+  {
+    "code": 297,
+    "name": "ابریشم",
+    "rail": "شمال شرق",
+    "distance": 550
+  },
+  {
+    "code": 298,
+    "name": "جاجرم",
+    "rail": "شمال شرق",
+    "distance": 572
+  },
+  {
+    "code": 299,
+    "name": "آزادور",
+    "rail": "شمال شرق",
+    "distance": 592
+  },
+  {
+    "code": 300,
+    "name": "سنخواست",
+    "rail": "شمال شرق",
+    "distance": 612
+  },
+  {
+    "code": 301,
+    "name": "جوین",
+    "rail": "شمال شرق",
+    "distance": 631
+  },
+  {
+    "code": 302,
+    "name": "نقاب",
+    "rail": "خراسان",
+    "distance": 655
+  },
+  {
+    "code": 303,
+    "name": "اسفراین",
+    "rail": "خراسان",
+    "distance": 675
+  },
+  {
+    "code": 304,
+    "name": "بیهق",
+    "rail": "خراسان",
+    "distance": 695
+  },
+  {
+    "code": 305,
+    "name": "سبزوار",
+    "rail": "خراسان",
+    "distance": 718
+  },
+  {
+    "code": 306,
+    "name": "فردوس",
+    "rail": "خراسان",
+    "distance": 742
+  },
+  {
+    "code": 307,
+    "name": "عطار",
+    "rail": "خراسان",
+    "distance": 765
+  },
+  {
+    "code": 308,
+    "name": "نیشابور",
+    "rail": "خراسان",
+    "distance": 787
+  },
+  {
+    "code": 309,
+    "name": "خیام",
+    "rail": "خراسان",
+    "distance": 810
+  },
+  {
+    "code": 310,
+    "name": "کاشمر",
+    "rail": "خراسان",
+    "distance": 833
+  },
+  {
+    "code": 311,
+    "name": "ابومسلم",
+    "rail": "خراسان",
+    "distance": 850
+  },
+  {
+    "code": 312,
+    "name": "تربت",
+    "rail": "خراسان",
+    "distance": 868
+  },
+  {
+    "code": 313,
+    "name": "فریمان",
+    "rail": "خراسان",
+    "distance": 887
+  },
+  {
+    "code": 314,
+    "name": "سلام",
+    "rail": "خراسان",
+    "distance": 906
+  },
+  {
+    "code": 315,
+    "name": "مشهد",
+    "rail": "خراسان",
+    "distance": 926
+  },
+  {
+    "code": 317,
+    "name": "شورآب",
+    "rail": "قم",
+    "distance": 213
+  },
+  {
+    "code": 318,
+    "name": "فیروزآباد",
+    "rail": "اصفهان",
+    "distance": 229
+  },
+  {
+    "code": 319,
+    "name": "دهنار",
+    "rail": "اصفهان",
+    "distance": 245
+  },
+  {
+    "code": 320,
+    "name": "مدآباد",
+    "rail": "اصفهان",
+    "distance": 262
+  },
+  {
+    "code": 321,
+    "name": "کاشان",
+    "rail": "اصفهان",
+    "distance": 278
+  },
+  {
+    "code": 322,
+    "name": "گز",
+    "rail": "اصفهان",
+    "distance": 294
+  },
+  {
+    "code": 323,
+    "name": "سرخ‌گل",
+    "rail": "اصفهان",
+    "distance": 310
+  },
+  {
+    "code": 324,
+    "name": "ده‌آباد",
+    "rail": "اصفهان",
+    "distance": 326
+  },
+  {
+    "code": 325,
+    "name": "بادرود",
+    "rail": "اصفهان",
+    "distance": 342
+  },
+  {
+    "code": 326,
+    "name": "جزن",
+    "rail": "اصفهان",
+    "distance": 365
+  },
+  {
+    "code": 327,
+    "name": "اسپیدان",
+    "rail": "اصفهان",
+    "distance": 383
+  },
+  {
+    "code": 328,
+    "name": "آبیازان",
+    "rail": "اصفهان",
+    "distance": 400
+  },
+  {
+    "code": 329,
+    "name": "رنگان",
+    "rail": "اصفهان",
+    "distance": 423
+  },
+  {
+    "code": 330,
+    "name": "گل",
+    "rail": "اصفهان",
+    "distance": 437
+  },
+  {
+    "code": 331,
+    "name": "چاریسه",
+    "rail": "اصفهان",
+    "distance": 452
+  },
+  {
+    "code": 332,
+    "name": "گرم‌آب",
+    "rail": "اصفهان",
+    "distance": 472
+  },
+  {
+    "code": 333,
+    "name": "ورتون",
+    "rail": "اصفهان",
+    "distance": 489
+  },
+  {
+    "code": 334,
+    "name": "سیستان",
+    "rail": "اصفهان",
+    "distance": 508
+  },
+  {
+    "code": 335,
+    "name": "فیروزه",
+    "rail": "اصفهان",
+    "distance": 527
+  },
+  {
+    "code": 336,
+    "name": "اصفهان",
+    "rail": "اصفهان",
+    "distance": 548
+  },
+  {
+    "code": 337,
+    "name": "ایران‌کوه",
+    "rail": "اصفهان",
+    "distance": 564
+  },
+  {
+    "code": 338,
+    "name": "آب‌نیل",
+    "rail": "اصفهان",
+    "distance": 577
+  },
+  {
+    "code": 339,
+    "name": "دیزیچه",
+    "rail": "اصفهان",
+    "distance": 593
+  },
+  {
+    "code": 340,
+    "name": "ریز",
+    "rail": "اصفهان",
+    "distance": 611
+  },
+  {
+    "code": 341,
+    "name": "زرین‌شهر",
+    "rail": "اصفهان",
+    "distance": 617
+  },
+  {
+    "code": 342,
+    "name": "خیرآباد",
+    "rail": "اصفهان",
+    "distance": 525
+  },
+  {
+    "code": 343,
+    "name": "هرند",
+    "rail": "اصفهان",
+    "distance": 541
+  },
+  {
+    "code": 344,
+    "name": "مشک",
+    "rail": "اصفهان",
+    "distance": 556
+  },
+  {
+    "code": 345,
+    "name": "ورزنه",
+    "rail": "اصفهان",
+    "distance": 572
+  },
+  {
+    "code": 346,
+    "name": "شیرازکوه",
+    "rail": "اصفهان",
+    "distance": 587
+  },
+  {
+    "code": 347,
+    "name": "شبنم",
+    "rail": "اصفهان",
+    "distance": 603
+  },
+  {
+    "code": 348,
+    "name": "هما",
+    "rail": "اصفهان",
+    "distance": 618
+  },
+  {
+    "code": 349,
+    "name": "ساسان",
+    "rail": "اصفهان",
+    "distance": 635
+  },
+  {
+    "code": 350,
+    "name": "اشک",
+    "rail": "اصفهان",
+    "distance": 652
+  },
+  {
+    "code": 351,
+    "name": "عقدا",
+    "rail": "اصفهان",
+    "distance": 662
+  },
+  {
+    "code": 352,
+    "name": "ارژنگ",
+    "rail": "یزد",
+    "distance": 678
+  },
+  {
+    "code": 353,
+    "name": "میبد",
+    "rail": "یزد",
+    "distance": 692
+  },
+  {
+    "code": 354,
+    "name": "شمسی",
+    "rail": "یزد",
+    "distance": 706
+  },
+  {
+    "code": 355,
+    "name": "نظرآباد",
+    "rail": "یزد",
+    "distance": 730
+  },
+  {
+    "code": 356,
+    "name": "یزد",
+    "rail": "یزد",
+    "distance": 752
+  },
+  {
+    "code": 357,
+    "name": "یزدگر",
+    "rail": "یزد",
+    "distance": 768
+  },
+  {
+    "code": 358,
+    "name": "رخش",
+    "rail": "یزد",
+    "distance": 782
+  },
+  {
+    "code": 359,
+    "name": "چاه خاور",
+    "rail": "یزد",
+    "distance": 801
+  },
+  {
+    "code": 360,
+    "name": "تبرکوه",
+    "rail": "یزد",
+    "distance": 818
+  },
+  {
+    "code": 361,
+    "name": "مهرداد",
+    "rail": "یزد",
+    "distance": 834
+  },
+  {
+    "code": 362,
+    "name": "بهرام گور",
+    "rail": "یزد",
+    "distance": 853
+  },
+  {
+    "code": 363,
+    "name": "بافق",
+    "rail": "یزد",
+    "distance": 870
+  },
+  {
+    "code": 366,
+    "name": "مانی",
+    "rail": "کرمان",
+    "distance": 919
+  },
+  {
+    "code": 367,
+    "name": "مورد",
+    "rail": "کرمان",
+    "distance": 935
+  },
+  {
+    "code": 368,
+    "name": "سی‌ریز",
+    "rail": "کرمان",
+    "distance": 954
+  },
+  {
+    "code": 369,
+    "name": "سنگ",
+    "rail": "کرمان",
+    "distance": 973
+  },
+  {
+    "code": 370,
+    "name": "گل زرد",
+    "rail": "کرمان",
+    "distance": 992
+  },
+  {
+    "code": 371,
+    "name": "جلال‌آباد",
+    "rail": "کرمان",
+    "distance": 1009
+  },
+  {
+    "code": 372,
+    "name": "زرند",
+    "rail": "کرمان",
+    "distance": 1027
+  },
+  {
+    "code": 373,
+    "name": "حسامی",
+    "rail": "کرمان",
+    "distance": 1048
+  },
+  {
+    "code": 374,
+    "name": "پورمند",
+    "rail": "کرمان",
+    "distance": 1065
+  },
+  {
+    "code": 375,
+    "name": "سلطانی",
+    "rail": "کرمان",
+    "distance": 1083
+  },
+  {
+    "code": 376,
+    "name": "کرمان",
+    "rail": "کرمان",
+    "distance": 1106
+  },
+  {
+    "code": 377,
+    "name": "جنت‌آباد",
+    "rail": "هرمزگان",
+    "distance": 919
+  },
+  {
+    "code": 378,
+    "name": "بیاض",
+    "rail": "هرمزگان",
+    "distance": 969
+  },
+  {
+    "code": 379,
+    "name": "احمدآباد",
+    "rail": "هرمزگان",
+    "distance": 1003
+  },
+  {
+    "code": 380,
+    "name": "میمند",
+    "rail": "هرمزگان",
+    "distance": 1058
+  },
+  {
+    "code": 381,
+    "name": "خاتون‌آباد",
+    "rail": "هرمزگان",
+    "distance": 1076
+  },
+  {
+    "code": 383,
+    "name": "سیرجان",
+    "rail": "هرمزگان",
+    "distance": 1124
+  },
+  {
+    "code": 384,
+    "name": "گل‌گهر",
+    "rail": "هرمزگان",
+    "distance": 1174
+  },
+  {
+    "code": 385,
+    "name": "گارمانوری قم",
+    "rail": "قم",
+    "distance": 172
+  },
+  {
+    "code": 388,
+    "name": "کاپی‌کوی",
+    "rail": "ترکیه",
+    "distance": 962
+  },
+  {
+    "code": 389,
+    "name": "مبارکه",
+    "rail": "شرق",
+    "distance": 874
+  },
+  {
+    "code": 391,
+    "name": "پولاد",
+    "rail": "اصفهان",
+    "distance": null
+  },
+  {
+    "code": 392,
+    "name": "مجتمع فولاد مبارکه",
+    "rail": "اصفهان",
+    "distance": null
+  },
+  {
+    "code": 393,
+    "name": "حسن‌آباد",
+    "rail": "اصفهان",
+    "distance": 616
+  },
+  {
+    "code": 406,
+    "name": "کویر",
+    "rail": "تهران",
+    "distance": 88
+  },
+  {
+    "code": 408,
+    "name": "مس سرچشمه",
+    "rail": "هرمزگان",
+    "distance": null
+  },
+  {
+    "code": 409,
+    "name": "کهه",
+    "rail": "هرمزگان",
+    "distance": 1246
+  },
+  {
+    "code": 410,
+    "name": "تزرج",
+    "rail": "هرمزگان",
+    "distance": 1300
+  },
+  {
+    "code": 411,
+    "name": "معدن گل‌گهر",
+    "rail": "هرمزگان",
+    "distance": 1182
+  },
+  {
+    "code": 412,
+    "name": "زادمحمود",
+    "rail": "هرمزگان",
+    "distance": 1347
+  },
+  {
+    "code": 413,
+    "name": "فین",
+    "rail": "هرمزگان",
+    "distance": 1401
+  },
+  {
+    "code": 414,
+    "name": "انشعاب",
+    "rail": "هرمزگان",
+    "distance": 1450
+  },
+  {
+    "code": 415,
+    "name": "بندرعباس",
+    "rail": "هرمزگان",
+    "distance": 1482
+  },
+  {
+    "code": 416,
+    "name": "مانوری",
+    "rail": "هرمزگان",
+    "distance": 1480
+  },
+  {
+    "code": 417,
+    "name": "شهید مطهری",
+    "rail": "خراسان",
+    "distance": 894
+  },
+  {
+    "code": 418,
+    "name": "آزادگان",
+    "rail": "خراسان",
+    "distance": 917
+  },
+  {
+    "code": 419,
+    "name": "رباط ماهی",
+    "rail": "خراسان",
+    "distance": 934
+  },
+  {
+    "code": 420,
+    "name": "مختوم‌قلی",
+    "rail": "خراسان",
+    "distance": 956
+  },
+  {
+    "code": 421,
+    "name": "مرزداران",
+    "rail": "خراسان",
+    "distance": 974
+  },
+  {
+    "code": 422,
+    "name": "رباط شرف",
+    "rail": "خراسان",
+    "distance": 1000
+  },
+  {
+    "code": 423,
+    "name": "گنبدلی",
+    "rail": "خراسان",
+    "distance": 1022
+  },
+  {
+    "code": 424,
+    "name": "سرخس",
+    "rail": "خراسان",
+    "distance": 1046
+  },
+  {
+    "code": 425,
+    "name": "سرخس ترکمنستان",
+    "rail": "ترکمنستان",
+    "distance": null
+  },
+  {
+    "code": 427,
+    "name": "موغار",
+    "rail": "یزد",
+    "distance": 359
+  },
+  {
+    "code": 428,
+    "name": "سهامیه",
+    "rail": "یزد",
+    "distance": 375
+  },
+  {
+    "code": 429,
+    "name": "زواره",
+    "rail": "یزد",
+    "distance": 393
+  },
+  {
+    "code": 430,
+    "name": "رباط",
+    "rail": "یزد",
+    "distance": 408
+  },
+  {
+    "code": 431,
+    "name": "شهرآب",
+    "rail": "یزد",
+    "distance": 423
+  },
+  {
+    "code": 432,
+    "name": "سنگی",
+    "rail": "یزد",
+    "distance": 440
+  },
+  {
+    "code": 433,
+    "name": "سهیل",
+    "rail": "یزد",
+    "distance": 456
+  },
+  {
+    "code": 434,
+    "name": "ویادوک",
+    "rail": "یزد",
+    "distance": 474
+  },
+  {
+    "code": 435,
+    "name": "نایین",
+    "rail": "یزد",
+    "distance": 490
+  },
+  {
+    "code": 436,
+    "name": "سرگز",
+    "rail": "یزد",
+    "distance": 507
+  },
+  {
+    "code": 437,
+    "name": "نوگنبد",
+    "rail": "یزد",
+    "distance": 523
+  },
+  {
+    "code": 438,
+    "name": "دوکوهه سیاه‌کوه",
+    "rail": "یزد",
+    "distance": 539
+  },
+  {
+    "code": 439,
+    "name": "سرو",
+    "rail": "یزد",
+    "distance": 556
+  },
+  {
+    "code": 440,
+    "name": "بی‌سیم",
+    "rail": "یزد",
+    "distance": 568
+  },
+  {
+    "code": 441,
+    "name": "اردکان",
+    "rail": "یزد",
+    "distance": 582
+  },
+  {
+    "code": 442,
+    "name": "قره‌تپه",
+    "rail": "هرمزگان",
+    "distance": 1215
+  },
+  {
+    "code": 443,
+    "name": "چاه تر",
+    "rail": "هرمزگان",
+    "distance": 1268
+  },
+  {
+    "code": 444,
+    "name": "تیکو",
+    "rail": "هرمزگان",
+    "distance": 1433
+  },
+  {
+    "code": 445,
+    "name": "فرودگاه",
+    "rail": "تهران",
+    "distance": 43
+  },
+  {
+    "code": 446,
+    "name": "علی‌آباد",
+    "rail": "تهران",
+    "distance": 61
+  },
+  {
+    "code": 447,
+    "name": "دریاچه",
+    "rail": "تهران",
+    "distance": 94
+  },
+  {
+    "code": 448,
+    "name": "سپررستم",
+    "rail": "تهران",
+    "distance": 115
+  },
+  {
+    "code": 449,
+    "name": "محمدیه ۲",
+    "rail": "قم",
+    "distance": 144
+  },
+  {
+    "code": 450,
+    "name": "گلدانه",
+    "rail": "یزد",
+    "distance": 601
+  },
+  {
+    "code": 451,
+    "name": "چغاسرخ",
+    "rail": "یزد",
+    "distance": 622
+  },
+  {
+    "code": 452,
+    "name": "توت",
+    "rail": "یزد",
+    "distance": 642
+  },
+  {
+    "code": 453,
+    "name": "زرین‌کوه",
+    "rail": "یزد",
+    "distance": 663
+  },
+  {
+    "code": 454,
+    "name": "ریگ",
+    "rail": "یزد",
+    "distance": 678
+  },
+  {
+    "code": 455,
+    "name": "نی‌باد",
+    "rail": "یزد",
+    "distance": 709
+  },
+  {
+    "code": 456,
+    "name": "دره‌انجیر",
+    "rail": "یزد",
+    "distance": 722
+  },
+  {
+    "code": 457,
+    "name": "خوشومی",
+    "rail": "یزد",
+    "distance": 742
+  },
+  {
+    "code": 458,
+    "name": "ساغند",
+    "rail": "یزد",
+    "distance": 768
+  },
+  {
+    "code": 459,
+    "name": "چادر ملو",
+    "rail": "یزد",
+    "distance": 783
+  },
+  {
+    "code": 460,
+    "name": "آپرین",
+    "rail": "تهران",
+    "distance": 21
+  },
+  {
+    "code": 463,
+    "name": "رابط ملکی",
+    "rail": "تهران",
+    "distance": null
+  },
+  {
+    "code": 465,
+    "name": "آزادمهر",
+    "rail": "شمال",
+    "distance": 292
+  },
+  {
+    "code": 466,
+    "name": "بندر امیرآباد",
+    "rail": "شمال",
+    "distance": 412
+  },
+  {
+    "code": 467,
+    "name": "اضطراری ۲۵",
+    "rail": "هرمزگان",
+    "distance": 882
+  },
+  {
+    "code": 468,
+    "name": "چوران",
+    "rail": "هرمزگان",
+    "distance": 1093
+  },
+  {
+    "code": 469,
+    "name": "اضطراری ۱۶",
+    "rail": "هرمزگان",
+    "distance": 1143
+  },
+  {
+    "code": 470,
+    "name": "اضطراری ۸",
+    "rail": "هرمزگان",
+    "distance": 1323
+  },
+  {
+    "code": 471,
+    "name": "اضطراری ۶",
+    "rail": "هرمزگان",
+    "distance": 1372
+  },
+  {
+    "code": 472,
+    "name": "اضطراری ۲۲",
+    "rail": "هرمزگان",
+    "distance": 955
+  },
+  {
+    "code": 473,
+    "name": "بندر ماهشهر",
+    "rail": "جنوب",
+    "distance": 927
+  },
+  {
+    "code": 474,
+    "name": "پالایشگاه",
+    "rail": "اراک",
+    "distance": null
+  },
+  {
+    "code": 478,
+    "name": "جمکران",
+    "rail": "قم",
+    "distance": 188
+  },
+  {
+    "code": 515,
+    "name": "بم",
+    "rail": "کرمان",
+    "distance": 1326
+  },
+  {
+    "code": 516,
+    "name": "راین",
+    "rail": "کرمان",
+    "distance": 1206
+  },
+  {
+    "code": 517,
+    "name": "حسین‌آباد",
+    "rail": "کرمان",
+    "distance": 1158
+  },
+  {
+    "code": 561,
+    "name": "اضطراری ۲۶",
+    "rail": "یزد",
+    "distance": 873
+  },
+  {
+    "code": 562,
+    "name": "دره‌ریگ",
+    "rail": "کرمان",
+    "distance": 885
+  },
+  {
+    "code": 563,
+    "name": "کاوه",
+    "rail": "کرمان",
+    "distance": 903
+  },
+  {
+    "code": 568,
+    "name": "حمیدیه",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 569,
+    "name": "تهرود",
+    "rail": "کرمان",
+    "distance": 1255
+  },
+  {
+    "code": 570,
+    "name": "ده بکری",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 571,
+    "name": "دارزین",
+    "rail": "کرمان",
+    "distance": 1326
+  },
+  {
+    "code": 572,
+    "name": "خواجه عسکر",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 573,
+    "name": "خودرو سازان",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 574,
+    "name": "فهرج",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 575,
+    "name": "میل نادری",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 576,
+    "name": "شورگز",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 577,
+    "name": "رودشور زاهدان",
+    "rail": "جنوب شرق",
+    "distance": 1450
+  },
+  {
+    "code": 578,
+    "name": "مزارآب",
+    "rail": "جنوب شرق",
+    "distance": 1475
+  },
+  {
+    "code": 579,
+    "name": "نمکزار زاهدان",
+    "rail": "جنوب شرق",
+    "distance": 1499
+  },
+  {
+    "code": 580,
+    "name": "کلات",
+    "rail": "جنوب شرق",
+    "distance": 1517
+  },
+  {
+    "code": 581,
+    "name": "رود ماهی",
+    "rail": "جنوب شرق",
+    "distance": 1534
+  },
+  {
+    "code": 582,
+    "name": "شورو",
+    "rail": "جنوب شرق",
+    "distance": 1560
+  },
+  {
+    "code": 583,
+    "name": "دومک",
+    "rail": "جنوب شرق",
+    "distance": 1583
+  },
+  {
+    "code": 584,
+    "name": "کنجانک",
+    "rail": "جنوب شرق",
+    "distance": 1606
+  },
+  {
+    "code": 585,
+    "name": "جیگولی",
+    "rail": "جنوب شرق",
+    "distance": 1625
+  },
+  {
+    "code": 586,
+    "name": "زاهدان مسافری قدیم",
+    "rail": "جنوب شرق",
+    "distance": 1657
+  },
+  {
+    "code": 588,
+    "name": "پدکی",
+    "rail": "جنوب شرق",
+    "distance": 1677
+  },
+  {
+    "code": 590,
+    "name": "کچه‌رود",
+    "rail": "جنوب شرق",
+    "distance": 1686
+  },
+  {
+    "code": 591,
+    "name": "چهار صوله",
+    "rail": "جنوب شرق",
+    "distance": 1694
+  },
+  {
+    "code": 592,
+    "name": "خان محمدچاه",
+    "rail": "جنوب شرق",
+    "distance": 1701
+  },
+  {
+    "code": 593,
+    "name": "بوک",
+    "rail": "جنوب شرق",
+    "distance": 1715
+  },
+  {
+    "code": 595,
+    "name": "میرجاوه",
+    "rail": "جنوب شرق",
+    "distance": 1741
+  },
+  {
+    "code": 596,
+    "name": "میل ۷۲",
+    "rail": "جنوب شرق",
+    "distance": 1751
+  },
+  {
+    "code": 605,
+    "name": "گندله سازی",
+    "rail": "یزد",
+    "distance": null
+  },
+  {
+    "code": 606,
+    "name": "اضطراری ۱۸",
+    "rail": "هرمزگان",
+    "distance": 1035
+  },
+  {
+    "code": 607,
+    "name": "اسدآباد",
+    "rail": "فارس",
+    "distance": 598
+  },
+  {
+    "code": 608,
+    "name": "مهیار",
+    "rail": "فارس",
+    "distance": 622
+  },
+  {
+    "code": 609,
+    "name": "شهرضا",
+    "rail": "فارس",
+    "distance": 650
+  },
+  {
+    "code": 610,
+    "name": "وشاره",
+    "rail": "فارس",
+    "distance": 673
+  },
+  {
+    "code": 611,
+    "name": "امین‌آباد",
+    "rail": "فارس",
+    "distance": 694
+  },
+  {
+    "code": 612,
+    "name": "ایزدخواست",
+    "rail": "فارس",
+    "distance": 717
+  },
+  {
+    "code": 613,
+    "name": "شورجستان",
+    "rail": "فارس",
+    "distance": 736
+  },
+  {
+    "code": 614,
+    "name": "صغاد",
+    "rail": "فارس",
+    "distance": 755
+  },
+  {
+    "code": 615,
+    "name": "آباده",
+    "rail": "فارس",
+    "distance": 773
+  },
+  {
+    "code": 616,
+    "name": "اقلید",
+    "rail": "فارس",
+    "distance": 799
+  },
+  {
+    "code": 617,
+    "name": "سیدآباد",
+    "rail": "اصفهان",
+    "distance": 585
+  },
+  {
+    "code": 618,
+    "name": "رحمانلو",
+    "rail": "آذربایجان",
+    "distance": null
+  },
+  {
+    "code": 619,
+    "name": "لطف آباد",
+    "rail": "خراسان",
+    "distance": null
+  },
+  {
+    "code": 620,
+    "name": "صفاشهر",
+    "rail": "فارس",
+    "distance": 878
+  },
+  {
+    "code": 621,
+    "name": "سعادت‌شهر",
+    "rail": "فارس",
+    "distance": 972
+  },
+  {
+    "code": 622,
+    "name": "مرودشت",
+    "rail": "فارس",
+    "distance": null
+  },
+  {
+    "code": 623,
+    "name": "شیراز",
+    "rail": "فارس",
+    "distance": 1074
+  },
+  {
+    "code": 624,
+    "name": "مجتمع فولاد خوزستان",
+    "rail": "جنوب",
+    "distance": null
+  },
+  {
+    "code": 625,
+    "name": "فولاد",
+    "rail": "خراسان",
+    "distance": 773
+  },
+  {
+    "code": 626,
+    "name": "ملکان",
+    "rail": "شمال غرب",
+    "distance": 616
+  },
+  {
+    "code": 627,
+    "name": "میاندوآب",
+    "rail": "شمال غرب",
+    "distance": 653
+  },
+  {
+    "code": 628,
+    "name": "قزقلعه",
+    "rail": "شمال غرب",
+    "distance": null
+  },
+  {
+    "code": 629,
+    "name": "مهاباد",
+    "rail": "شمال غرب",
+    "distance": 691
+  },
+  {
+    "code": 634,
+    "name": "شلمچه",
+    "rail": "جنوب",
+    "distance": 949
+  },
+  {
+    "code": 635,
+    "name": "زاهدان باری جدید",
+    "rail": "جنوب شرق",
+    "distance": 1647
+  },
+  {
+    "code": 638,
+    "name": "حک",
+    "rail": "اراک",
+    "distance": null
+  },
+  {
+    "code": 639,
+    "name": "جلایر",
+    "rail": "اراک",
+    "distance": null
+  },
+  {
+    "code": 640,
+    "name": "پری",
+    "rail": "اراک",
+    "distance": null
+  },
+  {
+    "code": 641,
+    "name": "ملایر",
+    "rail": "اراک",
+    "distance": null
+  },
+  {
+    "code": 643,
+    "name": "بید بیدک",
+    "rail": "فارس",
+    "distance": 813
+  },
+  {
+    "code": 644,
+    "name": "خانه خوره",
+    "rail": "فارس",
+    "distance": 833
+  },
+  {
+    "code": 645,
+    "name": "خرم‌بید",
+    "rail": "فارس",
+    "distance": 855
+  },
+  {
+    "code": 646,
+    "name": "پرند",
+    "rail": "تهران",
+    "distance": null
+  },
+  {
+    "code": 647,
+    "name": "دیدگان",
+    "rail": "فارس",
+    "distance": 910
+  },
+  {
+    "code": 648,
+    "name": "قادرآباد",
+    "rail": "فارس",
+    "distance": 925
+  },
+  {
+    "code": 649,
+    "name": "مرغاب",
+    "rail": "فارس",
+    "distance": 945
+  },
+  {
+    "code": 650,
+    "name": "پاسارگاد",
+    "rail": "فارس",
+    "distance": 956
+  },
+  {
+    "code": 651,
+    "name": "سیوند",
+    "rail": "فارس",
+    "distance": 993
+  },
+  {
+    "code": 670,
+    "name": "قمرود",
+    "rail": "قم",
+    "distance": 127
+  },
+  {
+    "code": 671,
+    "name": "شوشتر",
+    "rail": "زاگرس",
+    "distance": 780
+  },
+  {
+    "code": 703,
+    "name": "شهیدآباد",
+    "rail": "فارس",
+    "distance": 892
+  },
+  {
+    "code": 704,
+    "name": "زغال‌شویی",
+    "rail": "کرمان",
+    "distance": null
+  },
+  {
+    "code": 705,
+    "name": "باغین",
+    "rail": "کرمان",
+    "distance": 1127
+  },
+  {
+    "code": 706,
+    "name": "ذوب آهن",
+    "rail": "اصفهان",
+    "distance": 621
+  },
+  {
+    "code": 707,
+    "name": "نیروگاه",
+    "rail": "تهران",
+    "distance": null
+  },
+  {
+    "code": 708,
+    "name": "کوهین",
+    "rail": "شمال غرب",
+    "distance": null
+  },
+  {
+    "code": 711,
+    "name": "اینچه برون",
+    "rail": "شمال",
+    "distance": 547
+  },
+  {
+    "code": 711,
+    "name": "لندی عباس",
+    "rail": "جنوب شرق",
+    "distance": null
+  },
+  {
+    "code": 713,
+    "name": "شهریار",
+    "rail": "تهران",
+    "distance": null
+  },
+  {
+    "code": 714,
+    "name": "پتروشیمی",
+    "rail": "شمال",
+    "distance": 519
+  },
+  {
+    "code": 715,
+    "name": "یامپی",
+    "rail": "شمال",
+    "distance": 494
+  },
+  {
+    "code": 1993,
+    "name": "خواف خراسان",
+    "rail": "خراسان",
+    "distance": null
+  },
+  {
+    "code": 1994,
+    "name": "اسکله",
+    "rail": "هرمزگان",
+    "distance": 1485
+  },
+  {
+    "code": 1995,
+    "name": "پایانه نفتی",
+    "rail": "هرمزگان",
+    "distance": 1484
+  },
+  {
+    "code": 1998,
+    "name": "توقفگاه صدرا",
+    "rail": "فارس",
+    "distance": 1062
+  }
+]
